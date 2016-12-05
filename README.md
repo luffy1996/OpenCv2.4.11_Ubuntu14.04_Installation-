@@ -6,7 +6,7 @@
 
 1) Download the script given in this Repository to your computer.
 
-2) Run the Script using bash.
+2) Run the Script using bash.\n
    $ bash Install_Opencv2.4.11_Ubuntu14.04.sh
 
  
